@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "C language",
+        "category": "C",
+        "price": "100",
+        "image": "images/c.png"
+    },
+
+    {
+        "id": 2,
+        "name": "CSS language",
+        "category": "CSS",
+        "price": "200",
+        "image": "images/css.png"
+    },
+
+    {
+        "id": 3,
+        "name": "HTML language",
+        "category": "HTML",
+        "price": "220",
+        "image": "images/html.png"
+    },
+
+    {
+        "id": 4,
+        "name": "C++ language",
+        "category": "C++",
+        "price": "150",
+        "image": "images/cpp.png"
+    },
+
+    {
+        "id": 5,
+        "name": "JS language",
+        "category": "JS",
+        "price": "300",
+        "image": "images/js.png"
+    },
+
+
+    {
+        "id": 6,
+        "name": "C-C++ language",
+        "category": "C-C++",
+        "price": "350",
+        "image": "images/c and c++.png"
+    },
+
+    {
+        "id": 7,
+        "name": "HTML-CSS language",
+        "category": "HTML-CSS",
+        "price": "400",
+        "image": "images/html and css.png"
+    },
+    
+    {
+        "id": 8,
+        "name": "JAVA language",
+        "category": "Java",
+        "price": "450",
+        "image": "images/java.png"
+    },
+
+    {
+        "id": 9,
+        "name": "PYTHON language",
+        "category": "Python",
+        "price": "500",
+        "image": "images/python.png"
+    }
+    ]

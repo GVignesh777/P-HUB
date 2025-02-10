@@ -294,6 +294,7 @@ header {
 
 .cartTab {
   width: 400px;
+  height: 1000px;
   background-color: #eee1ee;
   /* background-color: #000000; */
   color: #665a5a;
@@ -309,6 +310,16 @@ header {
   pointer-events: none;
   transition: all 0.1s ease;
 }
+
+.cartTab .cart-empty {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-content: center;
+}
+
+
 .cartTab .total {
   position: absolute;
   bottom: 60px;

@@ -143,7 +143,8 @@ if(cart.length > 0){
     })
 }
 else {
-  document.getElementsByClassName('.listCart').innerHTML = "your cart is empty";
+
+  listCartHTML.innerHTML = `<div class="cart-empty" >Your cart is empty</div>`;
 }
 // 
 totalItems.innerText = totalproducts;

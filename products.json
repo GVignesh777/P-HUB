@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "C language",
+        "category": "C",
+        "price": "100",
+        "image": "images/c.png",
+        "description": "This is source code of C language."
+    },
+
+    {
+        "id": 2,
+        "name": "CSS language",
+        "category": "CSS",
+        "price": "200",
+        "image": "images/css.png",
+        "description": "This is source code of CSS language."
+
+    },
+
+    {
+        "id": 3,
+        "name": "HTML language",
+        "category": "HTML",
+        "price": "220",
+        "image": "images/html.png",
+        "description": "This is source code of HTML language."
+
+    },
+
+    {
+        "id": 4,
+        "name": "C++ language",
+        "category": "C++",
+        "price": "150",
+        "image": "images/cpp.png",
+        "description": "This is source code of C++ language."
+
+    },
+
+    {
+        "id": 5,
+        "name": "JS language",
+        "category": "JS",
+        "price": "300",
+        "image": "images/js.png",
+        "description": "This is source code of JS language."
+
+    },
+
+
+    {
+        "id": 6,
+        "name": "C-C++ language",
+        "category": "C-C++",
+        "price": "350",
+        "image": "images/c and c++.png",
+        "description": "This is source code of C-C++ language."
+
+    },
+
+    {
+        "id": 7,
+        "name": "HTML-CSS language",
+        "category": "HTML-CSS",
+        "price": "400",
+        "image": "images/html and css.png",
+        "description": "This is source code of HTML-CSS language."
+
+    },
+    
+    {
+        "id": 8,
+        "name": "JAVA language",
+        "category": "Java",
+        "price": "450",
+        "image": "images/java.png",
+        "description": "This is source code of JAVA language."
+
+    },
+
+    {
+        "id": 9,
+        "name": "PYTHON language",
+        "category": "Python",
+        "price": "500",
+        "image": "images/python.png",
+        "description": "This is source code of JAVA language."
+    }
+    ]
